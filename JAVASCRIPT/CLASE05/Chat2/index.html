@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto chat</title>
+    <style>
+        .capaMensajes {
+    width: 70%;
+    height: 500px;
+    border: 2px solid;
+    padding: 10px;
+    margin: 0;
+}
+ul {
+    padding: 8px;
+    list-style-type: none;
+}
+input {
+    height: 32px;
+    width: 50%;
+}
+button {
+    height: 32px;
+    width: 20%;
+}
+    </style>
+</head>
+<body>
+    <div class="capaMensajes">
+        <ul id="mensajesLista"></ul>
+    <div>
+        <div>
+            <span><input type="text" id="mensajeParaEnviar" placeholder="Escribe tu mensaje"></span>
+            <span><button>Enviar</button></span>
+        </div>
+    </div>
+</div>
+<script src="/socket.io/socket.io.js"></script>
+<script>var socket = io()</script>
+</body>
+</html>
