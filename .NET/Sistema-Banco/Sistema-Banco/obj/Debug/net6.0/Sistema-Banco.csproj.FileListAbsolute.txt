@@ -1,0 +1,15 @@
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\bin\Debug\net6.0\Sistema-Banco.exe
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\bin\Debug\net6.0\Sistema-Banco.deps.json
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\bin\Debug\net6.0\Sistema-Banco.runtimeconfig.json
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\bin\Debug\net6.0\Sistema-Banco.dll
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\bin\Debug\net6.0\Sistema-Banco.pdb
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\Sistema-Banco.csproj.AssemblyReference.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\Sistema-Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\Sistema-Banco.AssemblyInfoInputs.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\Sistema-Banco.AssemblyInfo.cs
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\Sistema-Banco.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\Sistema-Banco.dll
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\refint\Sistema-Banco.dll
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\Sistema-Banco.pdb
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\Sistema-Banco.genruntimeconfig.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Sistema-Banco\Sistema-Banco\obj\Debug\net6.0\ref\Sistema-Banco.dll

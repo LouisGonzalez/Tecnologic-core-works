@@ -1,0 +1,15 @@
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\bin\Debug\net6.0\Steven.exe
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\bin\Debug\net6.0\Steven.deps.json
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\bin\Debug\net6.0\Steven.runtimeconfig.json
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\bin\Debug\net6.0\Steven.dll
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\bin\Debug\net6.0\Steven.pdb
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\Steven.csproj.AssemblyReference.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\Steven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\Steven.AssemblyInfoInputs.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\Steven.AssemblyInfo.cs
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\Steven.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\Steven.dll
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\refint\Steven.dll
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\Steven.pdb
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\Steven.genruntimeconfig.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Steven\obj\Debug\net6.0\ref\Steven.dll

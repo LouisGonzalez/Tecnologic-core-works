@@ -1,0 +1,15 @@
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\bin\Debug\net6.0\Famillia.exe
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\bin\Debug\net6.0\Famillia.deps.json
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\bin\Debug\net6.0\Famillia.runtimeconfig.json
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\bin\Debug\net6.0\Famillia.dll
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\bin\Debug\net6.0\Famillia.pdb
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\Famillia.csproj.AssemblyReference.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\Famillia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\Famillia.AssemblyInfoInputs.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\Famillia.AssemblyInfo.cs
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\Famillia.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\Famillia.dll
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\refint\Famillia.dll
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\Famillia.pdb
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\Famillia.genruntimeconfig.cache
+C:\Users\louis\OneDrive\Documentos\Tecnologic-core-works\.NET\Famillia\Famillia\obj\Debug\net6.0\ref\Famillia.dll

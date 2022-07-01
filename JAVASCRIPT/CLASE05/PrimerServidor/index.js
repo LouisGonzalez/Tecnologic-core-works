@@ -20,6 +20,12 @@ app.use('/imagenes1',express.static(__dirname+'/images'))
 
 
 
+
+
+
 app.listen(8081, () => {
     console.log("Servidor iniciado en el puerto 8081")    
 })
+
+
+
